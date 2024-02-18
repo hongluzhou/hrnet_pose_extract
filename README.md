@@ -20,9 +20,9 @@ Please follow the instructions [here](https://github.com/leoxiaobin/deep-high-re
 ```shell
 git clone https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
 ```
-- Step 2: download the pretrained HRNet model checkpoints using [this link](https://drive.google.com/file/d/1bapNbKc3fd1aG4mugK_pTWHbFx3oMZqK/view?usp=sharing), and put the downloaded folder `models` inside the `deep-high-resolution-net.pytorch/` directory.      
+- Step 2: download the pretrained HRNet model checkpoints using [this link](https://drive.google.com/file/d/1L7h3-iCrsbd1WJvUAFUgM_oqjvleO4u4/view?usp=sharing), and put the downloaded folder `models` inside the `deep-high-resolution-net.pytorch/` directory.      
 - Step 3: replace the `demo` folder in the original `deep-high-resolution-net.pytorch` repository with the `demo` folder from this repository.      
-We have also put the code together and uploaded to [this link](https://drive.google.com/file/d/1L2MQsDsV-i7y75t8Yv7lcqmR7OXUcIyC/view?usp=sharing) which you can refer to if you have any questions on the preparation.  
+We have also put the code together and uploaded to [this link](https://drive.google.com/file/d/11Tpjp7WKwSokNPulhz604x-2AFrh2cQP/view?usp=sharing) which you can refer to if you have any questions on the preparation.  
   
 # Keypoint Extraction on Volleyball
 ```shell
